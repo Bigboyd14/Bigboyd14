@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Bigboyd14
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning C++, PHP and C#
