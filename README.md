@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Bigboyd14
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning C++, PHP and C#
+hi hello
+I do blender ig
